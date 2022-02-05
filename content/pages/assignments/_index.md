@@ -27,13 +27,66 @@ _Example student presentations:_
 
 [The Production of Nature (PDF)]({{< baseurl >}}/resources/mit4_313f16_prodnature). (Courtesy of an MIT student. Used with permission.)
 
-| ASSIGNMENTS | DUE DATES |
-| --- | --- |
-| [Modeling Experiment (I)]({{< baseurl >}}/pages/assignments/modeling-experiment-i) | Session 7 |
-| [Modeling Experiment (II)]({{< baseurl >}}/pages/assignments/modeling-experiment-ii) | Session 12 |
-| [Midterm Presentation]({{< baseurl >}}/pages/assignments/midterm-presentation) | Session 16 |
-| [Penultimate]({{< baseurl >}}/pages/assignments/penultimate-final-review) | Session 22 |
-| [Final Review]({{< baseurl >}}/pages/assignments/penultimate-final-review) | Session 26 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Modeling Experiment (I)]({{< baseurl >}}/pages/assignments/modeling-experiment-i)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Modeling Experiment (II)]({{< baseurl >}}/pages/assignments/modeling-experiment-ii)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Midterm Presentation]({{< baseurl >}}/pages/assignments/midterm-presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Penultimate]({{< baseurl >}}/pages/assignments/penultimate-final-review)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Final Review]({{< baseurl >}}/pages/assignments/penultimate-final-review)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The Collective Goal — Curating the Model Collection and Remodeling the Existing Publication Formats
 ---------------------------------------------------------------------------------------------------
